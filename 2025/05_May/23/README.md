@@ -1769,7 +1769,20 @@ Moderate length session
 
 **204**
 
-- I did not play the game yet today. I plan to play later in the night (after 10:00 pm) - 2025, Friday, May 23rd
+- ~~I did not play the game yet today. I plan to play later in the night (after 10:00 pm) - 2025, Friday, May 23rd~~
+
+- I came back this week for weekly gameplay, playing in the late nighttime to very early morning. I had a long length session, starting at 10:46 pm, and ending at 12:28 am.
+- I produced lots of materials, did collection, restocking, did many elevator trips, and played for about 82 minutes.
+- I used a several VIPs today, and I also earned 710 imperial bux, starting with 574, and ending with 584 iBux total. I did several search missions today, and complete a few imperial quests. I did not upgrade any levels today. I used a big spender VIP on my imperial court level. I don''t have a big spender VIP ready fro next week.
+- A new imperial level finished construction this week, being an interrogation level. 3 new materials were unlocked, 1 on another level, and 2 on this level. Material production got a lot more interesting this week.
+- I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 7 is the current limit until I reach floor 80. There will be a point where I will only be building imperial levels, as there won't be anything else. I did not construct any new levels today.
+- I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again
+- I did not evict any residents today.
+- I did not move in any new residents today.
+- I unlocked 1 new species today.
+- I didn't have any edge screen issues during gameplay, likely due to the PDA case. My PDA did not freeze up very often today.
+- I decided it would be best if I tried to make as much progress as possible each week, so that I could complete this game while my PDA is still functional.
+- I had a good time playing this week. I wrapped up and quit after a long length session. This was my first session of the month. - 2025, Friday, March 23rd/2025, Saturday, March 24th
 
 ---
 
@@ -1781,7 +1794,7 @@ See above.
 
 ## Statistics
 
-**As of the end of session 193**
+**As of the end of session 204**
 
 ### Levels
 
@@ -1799,22 +1812,22 @@ See above.
 
 ### Currency
 
-**As of the end of session 193**
+**As of the end of session 204**
 
 **Legend:**
 
 - iBux = Imperial Bux
 - iCredits = Imperial Credits
 
-- **Imperial credits:** `~9,198` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
-- **Imperial Bux:** `574`
+- **Imperial credits:** `~389,765` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
+- **Imperial Bux:** `584`
 - **In-game spending**
 - - **iBux (spent):** `~805+`
-- - **iBux (kept):** `574`
-- - **iBux (all):** `~1,379+`
-- - **iCredits (spent):** `at least 20,150,000`
-- - **iCredits (kept):** `9,198`
-- - **iCredits (all):** `at least ~20,159,198`
+- - **iBux (kept):** `584`
+- - **iBux (all):** `~1,389+`
+- - **iCredits (spent):** `at least 20,170,000`
+- - **iCredits (kept):** `389,765`
+- - **iCredits (all):** `at least ~20,559,765`
 - **Real money spent:** `$00.00` (I started playing this game again when the servers were disconnected, when I originally played in 2014, I did not spend any money either) I wouldn't spend any money regardless
 - **Real life value of in-game progress:** `~$296.99` (not including the rarity of the game)
 - **A formula is needed, these numbers are random guesses from shooting in the dark**
@@ -1828,7 +1841,7 @@ See above.
 
 ### Population
 
-**As of the end of session 193**
+**As of the end of session 204**
 
 - **Total bitizens:** `170`
 - **Employed bitizens:** `Undetermined/Data unavailable`
@@ -1837,18 +1850,20 @@ See above.
 
 ### Assignment materials
 
-**As of the end of session 193**
+**As of the end of session 204**
 
 > **Note** _Only materials I can produce are included here_
 
-- **Security systems:** `717` (goal: 10 Security Systems for every 1 level)
-- **Diplomatic envoys:** `297`
-- **Comlinks:** `205`
-- **Internal forcefields:** `122`
-- **Inspections:** `95`
-- **Shield projectors:** `133`
-- **Imperial Edict:** `49`
-- **Total materials:** `1,618`
+- **Security systems:** `723` (goal: 10 Security Systems for every 1 level)
+- **Diplomatic envoys:** `301`
+- **Comlinks:** `206`
+- **Internal forcefields:** `124`
+- **Inspections:** `97`
+- **Shield projectors:** `135`
+- **Imperial Edict:** `51`
+- **Armor upgrade:** `9`
+- **Imperial scout:** `11`
+- **Total materials:** `1,657` (723+301+206+124+97+135+51+9+11)
 
 ### Unlocks
 
@@ -1883,6 +1898,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, May 23rd at 01:59 pm PST)`
+- **File version:** `2 (2025, Saturday, May 24th at 11:28 am PST)`
 
 ***
