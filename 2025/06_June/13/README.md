@@ -1805,7 +1805,7 @@ Moderate length session
 
 - I came back this week for weekly gameplay, playing in the mid morning to late morning. I had a long length session (2 hours, 30 minutes) starting at 08:53 am, and ending at 11:23 am.
 - I produced lots of materials, did collection, restocking, did many elevator trips, and played for about 150 minutes.
-- I used a few VIPs today, and I also earned 13 imperial bux, starting with 590, and ending with 603 iBux total. I did several search missions today, and complete a few imperial quests. I upgraded 1 level today. I did not have a big spender VIP ready for the imperial court today, but I will have one next wek.
+- I used a few VIPs today, and I also earned 13 imperial bux, starting with 590, and ending with 603 iBux total. I did several search missions today, and completed a few imperial quests. I upgraded 1 level today. I did not have a big spender VIP ready for the imperial court today, but I will have one next week.
 - I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 8 is the current limit until I reach floor 90. There will be a point where I will only be building imperial levels, as there won't be anything else. I saved up 1.006 million credits today, then began construction on my 82nd level (74th positive level, a retail floor)
 - I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again
 - I did not evict any residents today.
@@ -1822,6 +1822,17 @@ Moderate length session
 **207**
 
 - I have not yet started playing Tiny Death Star today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session.
+- I came back this week for weekly gameplay, playing in the mid morning to late morning. I had a mid length session (55 minutes) starting at 11:00 PM, and ending at 11:55 Pm.
+- I produced some materials, did collection, restocking, did some elevator trips, and played for about 55 minutes.
+- I used a few VIPs today, and I also earned 9 imperial bux, starting with 603, and ending with 612 iBux total. I did several search missions today. I did not upgrade any level today. I had a big spender VIP ready this week, but won't have one ready fro enxt week.
+- I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 8 is the current limit until I reach floor 90. There will be a point where I will only be building imperial levels, as there won't be anything else. I saved up 1.006 million credits today, then began construction on my 82nd level (74th positive level, a retail floor)
+- I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again
+- I did not evict any residents today.
+- I did not move in any new residents today.
+- I did not unlock any new species today.
+- I didn't have any edge screen issues during gameplay, likely due to the PDA case. My PDA did not freeze up very often today.
+- I decided it would be best if I tried to make as much progress as possible each week, so that I could complete this game while my PDA is still functional.
+- I had a good time playing this week. I wrapped up and quit after a long length session. This was my second session of the month. - 2025, June 13th
 
 ---
 
@@ -1833,7 +1844,7 @@ See above.
 
 ## Statistics
 
-**As of the end of session 206**
+**As of the end of session 207**
 
 ### Levels
 
@@ -1851,22 +1862,22 @@ See above.
 
 ### Currency
 
-**As of the end of session 206**
+**As of the end of session 207**
 
 **Legend:**
 
 - iBux = Imperial Bux
 - iCredits = Imperial Credits
 
-- **Imperial credits:** `~102,601` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
+- **Imperial credits:** `~522,074` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
 - **Imperial Bux:** `603`
 - **In-game spending**
 - - **iBux (spent):** `~805+`
-- - **iBux (kept):** `603`
-- - **iBux (all):** `~1,408+`
-- - **iCredits (spent):** `at least 21,100,000`
-- - **iCredits (kept):** `102,601`
-- - **iCredits (all):** `at least ~21,202,601`
+- - **iBux (kept):** `612`
+- - **iBux (all):** `~1,417+`
+- - **iCredits (spent):** `at least 21,110,000`
+- - **iCredits (kept):** `522,074`
+- - **iCredits (all):** `at least ~21,632,074`
 - **Real money spent:** `$00.00` (I started playing this game again when the servers were disconnected, when I originally played in 2014, I did not spend any money either) I wouldn't spend any money regardless
 - **Real life value of in-game progress:** `~$296.99` (not including the rarity of the game)
 - **A formula is needed, these numbers are random guesses from shooting in the dark**
@@ -1880,7 +1891,7 @@ See above.
 
 ### Population
 
-**As of the end of session 206**
+**As of the end of session 207**
 
 - **Total bitizens:** `170`
 - **Employed bitizens:** `Undetermined/Data unavailable`
@@ -1889,21 +1900,21 @@ See above.
 
 ### Assignment materials
 
-**As of the end of session 206**
+**As of the end of session 207**
 
 > **Note** _Only materials I can produce are included here_
 
-- **Security systems:** `736` (goal: 10 Security Systems for every 1 level)
-- **Diplomatic envoys:** `308`
+- **Security systems:** `739` (goal: 10 Security Systems for every 1 level)
+- **Diplomatic envoys:** `310`
 - **Comlinks:** `206`
-- **Internal forcefields:** `128`
-- **Inspections:** `100`
-- **Shield projectors:** `138`
-- **Imperial Edict:** `54`
-- **Armor upgrade:** `16`
-- **Imperial scout:** `14`
+- **Internal forcefields:** `129`
+- **Inspections:** `101`
+- **Shield projectors:** `140`
+- **Imperial Edict:** `55`
+- **Armor upgrade:** `18`
+- **Imperial scout:** `15`
 - **Recon droids:** `19`
-- **Total materials:** `1,719` (736+308+206+128+100+138+54+16+14+19)
+- **Total materials:** `1,732` (739+310+206+129+101+140+55+18+15+19)
 
 ### Unlocks
 
@@ -1938,6 +1949,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, June 13th at 12:29 pm PST)`
+- **File version:** `2 (2025, Saturday, June 14th at 03:36 pm PST)`
 
 ***
