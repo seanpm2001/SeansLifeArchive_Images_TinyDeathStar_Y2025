@@ -1820,9 +1820,9 @@ Moderate length session
 **207**
 
 - ~~I have not yet started playing Tiny Death Star today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session.~~
-- I came back this week for weekly gameplay, playing in the mid morning to late morning. I had a mid length session (55 minutes) starting at 11:00 PM, and ending at 11:55 Pm.
+- I came back this week for weekly gameplay, playing in the mid morning to late morning. I had a mid length session (55 minutes) starting at 11:00 pm, and ending at 11:55 pm.
 - I produced some materials, did collection, restocking, did some elevator trips, and played for about 55 minutes.
-- I used a few VIPs today, and I also earned 9 imperial bux, starting with 603, and ending with 612 iBux total. I did several search missions today. I did not upgrade any level today. I had a big spender VIP ready this week, but won't have one ready fro enxt week.
+- I used a few VIPs today, and I also earned 9 imperial bux, starting with 603, and ending with 612 iBux total. I did several search missions today. I did not upgrade any level today. I had a big spender VIP ready this week, but won't have one ready for next week.
 - I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 8 is the current limit until I reach floor 90. There will be a point where I will only be building imperial levels, as there won't be anything else. I saved up 1.006 million credits today, then began construction on my 82nd level (74th positive level, a retail floor)
 - I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again
 - I did not evict any residents today.
@@ -1838,7 +1838,18 @@ Moderate length session
 
 **208**
 
-- I have not yet started playing Tiny Death Star today. I plan to play by 10:00 pm PST, but if I don't have the time, I will have to skip my session. It is highly likely I will play later tonight. - 2025, Friday, June 20th
+- ~~I have not yet started playing Tiny Death Star today. I plan to play by 10:00 pm PST, but if I don't have the time, I will have to skip my session. It is highly likely I will play later tonight.~~
+- I came back this week for weekly gameplay, playing in the late night to very early morning. I had a long length session (88 minutes) starting at 11:40 pm, and ending at 01:08 am.
+- I produced some materials, did collection, restocking, did some elevator trips, and played for about 88 minutes.
+- I used a few VIPs today, and I also earned 7 imperial bux, starting with 612, and ending with 619 iBux total. I did several search missions today. I did not upgrade any level today.
+- I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 8 is the current limit until I reach floor 90. There will be a point where I will only be building imperial levels, as there won't be anything else. I did not build any new levels today.
+- I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again
+- I did not evict any residents today.
+- I did not move in any new residents today.
+- I did not unlock any new species today.
+- I didn't have any edge screen issues during gameplay, likely due to the PDA case. My PDA did not freeze up very often today.
+- I decided it would be best if I tried to make as much progress as possible each week, so that I could complete this game while my PDA is still functional.
+- I had a good time playing this week. I wrapped up and quit after a long length session. This was my third session of the month. - 2025, Friday, June 20th
 
 ---
 
@@ -1850,7 +1861,7 @@ See above.
 
 ## Statistics
 
-**As of the end of session 207**
+**As of the end of session 208**
 
 ### Levels
 
@@ -1868,22 +1879,22 @@ See above.
 
 ### Currency
 
-**As of the end of session 207**
+**As of the end of session 208**
 
 **Legend:**
 
 - iBux = Imperial Bux
 - iCredits = Imperial Credits
 
-- **Imperial credits:** `~522,074` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
-- **Imperial Bux:** `603`
+- **Imperial credits:** `~727,834` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
+- **Imperial Bux:** `619`
 - **In-game spending**
 - - **iBux (spent):** `~805+`
-- - **iBux (kept):** `612`
-- - **iBux (all):** `~1,417+`
-- - **iCredits (spent):** `at least 21,110,000`
-- - **iCredits (kept):** `522,074`
-- - **iCredits (all):** `at least ~21,632,074`
+- - **iBux (kept):** `619`
+- - **iBux (all):** `~1,426+`
+- - **iCredits (spent):** `at least 21,120,000`
+- - **iCredits (kept):** `727,834`
+- - **iCredits (all):** `at least ~21,837,834`
 - **Real money spent:** `$00.00` (I started playing this game again when the servers were disconnected, when I originally played in 2014, I did not spend any money either) I wouldn't spend any money regardless
 - **Real life value of in-game progress:** `~$296.99` (not including the rarity of the game)
 - **A formula is needed, these numbers are random guesses from shooting in the dark**
@@ -1906,21 +1917,21 @@ See above.
 
 ### Assignment materials
 
-**As of the end of session 207**
+**As of the end of session 208**
 
 > **Note** _Only materials I can produce are included here_
 
-- **Security systems:** `739` (goal: 10 Security Systems for every 1 level)
-- **Diplomatic envoys:** `310`
+- **Security systems:** `742` (goal: 10 Security Systems for every 1 level)
+- **Diplomatic envoys:** `312`
 - **Comlinks:** `206`
-- **Internal forcefields:** `129`
-- **Inspections:** `101`
-- **Shield projectors:** `140`
-- **Imperial Edict:** `55`
-- **Armor upgrade:** `18`
-- **Imperial scout:** `15`
+- **Internal forcefields:** `130`
+- **Inspections:** `109`
+- **Shield projectors:** `141`
+- **Imperial Edict:** `56`
+- **Armor upgrade:** `20`
+- **Imperial scout:** `16`
 - **Recon droids:** `19`
-- **Total materials:** `1,732` (739+310+206+129+101+140+55+18+15+19)
+- **Total materials:** `1,751` (742+312+206+130+109+141+56+20+16+19)
 
 ### Unlocks
 
@@ -1955,6 +1966,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, June 20th at 12:43 pm PST)`
+- **File version:** `2 (2025, Saturday, June 21st at 01:31 pm PST)`
 
 ***
