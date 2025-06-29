@@ -1855,7 +1855,18 @@ Moderate length session
 
 **209**
 
-- I have not yet started playing Tiny Death Star today. I plan to play by 10:00 pm PST, but if I don't have the time, I will have to skip my session. It is highly likely I will play later tonight. - 2025, Friday, June 27th
+- ~~I have not yet started playing Tiny Death Star today. I plan to play by 10:00 pm PST, but if I don't have the time, I will have to skip my session. It is highly likely I will play later tonight.~~
+- I came back this week for weekly gameplay, playing in the late night to very early morning. I had a long length session (83 minutes) starting at 11:16 pm, and ending at 12:39 am.
+- I produced some materials, did collection, restocking, did some elevator trips, and played for about 83 minutes.
+- I used a few VIPs today, and I also earned 14 imperial bux, starting with 619, and ending with 633 iBux total. I did several search missions today. I did not upgrade any level today. I accidentally completed a quest today and spent some of my materials on this.
+- I have plans to build 1 imperial level for every 10 positive (non-negative) levels. 8 is the current limit until I reach floor 90. There will be a point where I will only be building imperial levels, as there won't be anything else. I began construction on my 83rd level today (my 75th positive level) which will be a recreation-type level.
+- I have plans to stock up imperial parts, instead of completing the quests. I am spending time trying to get my supplies built back up again. Today was a setback, as I accidentally completed a quest, spending some of my hard-earned materials.
+- I did not evict any residents today.
+- I did not move in any new residents today.
+- I did not unlock any new species today.
+- I didn't have any edge screen issues during gameplay, likely due to the PDA case. My PDA did not freeze up very often today.
+- I decided it would be best if I tried to make as much progress as possible each week, so that I could complete this game while my PDA is still functional.
+- I had a good time playing this week. I wrapped up and quit after a long length session. This was my fourth and final session of the month. - 2025, Friday, June 27th
 
 ---
 
@@ -1867,7 +1878,7 @@ See above.
 
 ## Statistics
 
-**As of the end of session 208**
+**As of the end of session 209**
 
 ### Levels
 
@@ -1875,32 +1886,32 @@ See above.
 - **Food levels:** `10`
 - **Service levels:** `10`
 - **Retail levels:** `10`
-- **Recreation levels:** `9`
+- **Recreation levels:** `10`
 - **Residential levels:** `24`
-- **Positive levels:** `73`
+- **Positive levels:** `75`
 - **Negative levels:** `8`
-- **Overall total:** `82`
+- **Overall total:** `83`
 - **Rebuilds:** `0 (this game does not allow rebuilding)`
 - **Upgrades:** `Data unavailable`
 
 ### Currency
 
-**As of the end of session 208**
+**As of the end of session 209**
 
 **Legend:**
 
 - iBux = Imperial Bux
 - iCredits = Imperial Credits
 
-- **Imperial credits:** `~727,834` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
-- **Imperial Bux:** `619`
+- **Imperial credits:** `~121,716` <!-- An estimate, as the amount can go up between the time of the last screenshot, and the game closing !-->
+- **Imperial Bux:** `633`
 - **In-game spending**
 - - **iBux (spent):** `~805+`
-- - **iBux (kept):** `619`
-- - **iBux (all):** `~1,426+`
-- - **iCredits (spent):** `at least 21,120,000`
-- - **iCredits (kept):** `727,834`
-- - **iCredits (all):** `at least ~21,837,834`
+- - **iBux (kept):** `633`
+- - **iBux (all):** `~1,438+`
+- - **iCredits (spent):** `at least 22,100,000`
+- - **iCredits (kept):** `121,716`
+- - **iCredits (all):** `at least ~22,221,716`
 - **Real money spent:** `$00.00` (I started playing this game again when the servers were disconnected, when I originally played in 2014, I did not spend any money either) I wouldn't spend any money regardless
 - **Real life value of in-game progress:** `~$296.99` (not including the rarity of the game)
 - **A formula is needed, these numbers are random guesses from shooting in the dark**
@@ -1914,7 +1925,7 @@ See above.
 
 ### Population
 
-**As of the end of session 207**
+**As of the end of session 209**
 
 - **Total bitizens:** `170`
 - **Employed bitizens:** `Undetermined/Data unavailable`
@@ -1923,25 +1934,25 @@ See above.
 
 ### Assignment materials
 
-**As of the end of session 208**
+**As of the end of session 209**
 
 > **Note** _Only materials I can produce are included here_
 
-- **Security systems:** `742` (goal: 10 Security Systems for every 1 level)
-- **Diplomatic envoys:** `312`
+- **Security systems:** `748` (goal: 10 Security Systems for every 1 level)
+- **Diplomatic envoys:** `276`
 - **Comlinks:** `206`
-- **Internal forcefields:** `130`
-- **Inspections:** `109`
-- **Shield projectors:** `141`
+- **Internal forcefields:** `133`
+- **Inspections:** `110`
+- **Shield projectors:** `129`
 - **Imperial Edict:** `56`
-- **Armor upgrade:** `20`
-- **Imperial scout:** `16`
+- **Armor upgrade:** `24`
+- **Imperial scout:** `17`
 - **Recon droids:** `19`
-- **Total materials:** `1,751` (742+312+206+130+109+141+56+20+16+19)
+- **Total materials:** `1,718` (748+276+206+133+110+129+56+24+17+19)
 
 ### Unlocks
 
-**As of the end of session 193**
+**As of the end of session 209**
 
 - **Cutscenes unlocked:** `Data unavailable`
 - **Characters unlocked:** `Data unavailable`
@@ -1972,6 +1983,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, June 27th at 11:24 am PST)`
+- **File version:** `2 (2025, Saturday, June 28th at 02:17 pm PST)`
 
 ***
