@@ -1924,7 +1924,8 @@ Moderate length session
 
 **216**
 
-- I have not yet started playing Tiny Death Star today. I plan to play by 11:00 pm PST, but if I don't have the time, I will have to skip my session once again this week.
+- ~~I have not yet started playing Tiny Death Star today. I plan to play by 11:00 pm PST, but if I don't have the time, I will have to skip my session once again this week.~~
+- I really would have liked to play this week, but I didn't have the time, as I procrastinated it all away, and my session was ultimately skipped. - 2025, Friday, August 15th
 
 ---
 
@@ -1936,7 +1937,7 @@ See above.
 
 ## Statistics
 
-**As of the end of session 215**
+**As of the end of session 216**
 
 ### Levels
 
@@ -1954,7 +1955,7 @@ See above.
 
 ### Currency
 
-**As of the end of session 215**
+**As of the end of session 216**
 
 **Legend:**
 
@@ -1983,7 +1984,7 @@ See above.
 
 ### Population
 
-**As of the end of session 215**
+**As of the end of session 216**
 
 - **Total bitizens:** `170`
 - **Employed bitizens:** `Undetermined/Data unavailable`
@@ -1992,7 +1993,7 @@ See above.
 
 ### Assignment materials
 
-**As of the end of session 215**
+**As of the end of session 216**
 
 > **Note** _Only materials I can produce are included here_
 
@@ -2010,7 +2011,7 @@ See above.
 
 ### Unlocks
 
-**As of the end of session 215**
+**As of the end of session 216**
 
 - **Cutscenes unlocked:** `Data unavailable`
 - **Characters unlocked:** `Data unavailable`
@@ -2041,6 +2042,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, August 16th at 05:03 pm PST)`
+- **File version:** `1 (2025, Saturday, August 16th at 06:40 pm PST)`
 
 ***
