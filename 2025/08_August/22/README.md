@@ -1931,7 +1931,8 @@ Moderate length session
 
 **217**
 
-- I have not yet started playing Tiny Death Star today. I may start playing by 11:00 pm PST, but if I don't have the time, I will have to skip my session once again this week. - 2025, Friday, August 22nd
+- ~~I have not yet started playing Tiny Death Star today. I may start playing by 11:00 pm PST, but if I don't have the time, I will have to skip my session once again this week.~~
+- I would have liked to play this week, but I just didn't have enough time, so I had to skip my session. - 2025, Friday, August 22nd
 
 ---
 
@@ -2048,6 +2049,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, August 22nd at 02:09 pm PST)`
+- **File version:** `2 (2025, Saturday, August 23rd at 02:22 pm PST)`
 
 ***
