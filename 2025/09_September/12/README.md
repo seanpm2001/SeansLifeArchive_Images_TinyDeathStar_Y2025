@@ -1960,7 +1960,8 @@ I would have liked to play today, but I had a really hard time sleeping last nig
 
 **220**
 
-I would like to play today, but I am not sure how much time I will have later on. I might play later tonight, but it isn't a guarantee. - 2025, Friday, September 12th
+- ~~I would like to play today, but I am not sure how much time I will have later on. I might play later tonight, but it isn't a guarantee.~~
+- My session was skipped today, due to a lack of time. - 2025, Friday, September 12th
 
 ---
 
@@ -2077,6 +2078,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Friday, September 12th at 01:44 pm PST)`
+- **File version:** `2 (2025, Saturday, September 13th at 06:54 pm PST)`
 
 ***
